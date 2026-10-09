@@ -1,0 +1,29 @@
+[
+  {
+    "imageId": "7dbb596b-8034-412d-a83b-d6a9620c8c13",
+    "imageNumber": 2072,
+    "status": "finalized",
+    "prompt": "Flat waiting-room photograph, cold overhead fluorescents, rows of empty vinyl chairs, straight-on medium framing, washed palette: WAITING LIST \u2014 a man in an open-backed hospital gown and odd socks throws full shadow-boxing combinations in the middle of an empty waiting room, fists tight, head slipping off an imaginary counter, face locked in absolute fighting focus, drip stand parked beside him. the joke: whatever he is about to go in for, he is warming up for it like a title fight. no text",
+    "proposer": "Ahuvuun",
+    "source": "https://api.vortex.haus/images/finalized",
+    "asset": "arena-strip-1.png"
+  },
+  {
+    "imageId": "f81030b6-7b7d-4a85-92fd-0cc3cf37ee48",
+    "imageNumber": 2071,
+    "status": "finalized",
+    "prompt": "Harsh midday sun photograph, high contrast, dust in the air, straight-on medium framing, slightly faded colour: RAMP READY \u2014 a paunchy daredevil in a sequinned white jumpsuit stands at the foot of his take-off ramp with the suit unzipped to the waist, revealing a bulky lumbar brace and crisscrossed kinesiology tape over his belly, a lit cigarette in the corner of his mouth, helmet tucked under one arm, squinting up the ramp with total confidence. the joke: the costume promises a superhuman and the zip reveals a man held together with tape. no text",
+    "proposer": "Puoraan",
+    "source": "https://api.vortex.haus/images/finalized",
+    "asset": "arena-strip-2.png"
+  },
+  {
+    "imageId": "7b7ee6cd-15ea-4c9c-a580-0b55fd37d6d8",
+    "imageNumber": 2070,
+    "status": "finalized",
+    "prompt": "Sports photography still, fast shutter, hard tropical sun, deep turquoise water below, mid-air subject isolated against sky: WORK-LIFE \u2014 a cliff diver in tiny trunks is caught at full extension mid-swan-dive, back arched and toes pointed, clutching a dripping canvas laptop bag tight against his chest with both arms, face set in flat professional calm. the joke: he is forty metres above the water and he brought the bag. no text",
+    "proposer": "Ereileelion",
+    "source": "https://api.vortex.haus/images/finalized",
+    "asset": "arena-strip-3.png"
+  }
+]
