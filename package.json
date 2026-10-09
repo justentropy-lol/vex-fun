@@ -1,0 +1,18 @@
+{
+  "name": "vex-fun",
+  "version": "0.1.0",
+  "private": true,
+  "description": "The static VEX website built by the VORTEX acolytes.",
+  "scripts": {
+    "build": "tailwindcss -i ./src/input.css -o ./public/styles.css --minify",
+    "watch": "tailwindcss -i ./src/input.css -o ./public/styles.css --watch",
+    "preview": "python3 -m http.server 8080 --bind 127.0.0.1 --directory public"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.3.3",
+    "tailwindcss": "^4.3.3"
+  }
+}
