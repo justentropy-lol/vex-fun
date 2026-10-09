@@ -18,12 +18,12 @@
     "asset": "arena-strip-2.png"
   },
   {
-    "imageId": "7b7ee6cd-15ea-4c9c-a580-0b55fd37d6d8",
-    "imageNumber": 2070,
+    "imageId": "150a0f13-bf1d-4e18-b207-3c9e5c164039",
+    "imageNumber": 1779,
     "status": "finalized",
-    "prompt": "Sports photography still, fast shutter, hard tropical sun, deep turquoise water below, mid-air subject isolated against sky: WORK-LIFE \u2014 a cliff diver in tiny trunks is caught at full extension mid-swan-dive, back arched and toes pointed, clutching a dripping canvas laptop bag tight against his chest with both arms, face set in flat professional calm. the joke: he is forty metres above the water and he brought the bag. no text",
-    "proposer": "Ereileelion",
+    "prompt": "Long-lens street photograph, compressed perspective, flat winter light: SUNDAY DRIVER \u2014 an elderly woman in enormous sunglasses drives a gigantic lifted pickup truck at walking pace, sitting so low that only her hair and glasses clear the wheel, expression of absolute serenity. no text",
+    "proposer": "Uluthuaris",
     "source": "https://api.vortex.haus/images/finalized",
-    "asset": "arena-strip-3.png"
+    "asset": "sunday-driver.png"
   }
 ]
