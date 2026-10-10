@@ -1,1 +1,12 @@
 @import "tailwindcss";
+
+#room-ticker { height: 36px; overflow: hidden; }
+#room-ticker-track { display: flex; width: max-content; height: 100%; align-items: center; animation: room-ticker-scroll 40s linear infinite; }
+#room-ticker-lines, .room-ticker-repeat { display: flex; flex-shrink: 0; min-width: 60rem; justify-content: space-around; gap: 2rem; padding-right: 2rem; white-space: nowrap; }
+#room-ticker:hover #room-ticker-track, #room-ticker:focus-within #room-ticker-track { animation-play-state: paused; }
+@keyframes room-ticker-scroll { to { transform: translateX(-50%); } }
+@media (prefers-reduced-motion: reduce) {
+  #room-ticker-track { width: 100%; animation: none; transform: none; }
+  #room-ticker-lines { width: 100%; min-width: 0; flex-wrap: wrap; justify-content: center; gap: 0 1rem; padding: 0 0.5rem; white-space: normal; font-size: 10px; line-height: 14px; }
+  .room-ticker-repeat { display: none; }
+}
